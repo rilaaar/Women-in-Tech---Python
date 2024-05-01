@@ -6,3 +6,6 @@ https://drive.google.com/drive/folders/1dQrlkNsjIaueCEhKCFYhIZO6Xq9hZ97I?usp=sha
 
 Link LMS : 
 https://lms.sdmdigital.id/course/view.php?id=604 
+
+Lnk tutorial source control git vscode : 
+https://code.visualstudio.com/docs/sourcecontrol/overview#_working-in-a-git-repository 
