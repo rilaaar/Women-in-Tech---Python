@@ -14,7 +14,11 @@ from .models import ProdukItem, OrderProdukItem, Order, AlamatPengiriman, Paymen
 class HomeListView(generic.ListView):
     template_name = 'home.html'
     queryset = ProdukItem.objects.all()
-    paginate_by = 4
+    paginate_by = 8
+
+# class ContactView(generic.ContactView) :
+#     template_name = 'contact.html'
+#     queryset = ProdukItem.objects.all()
 
 class ProductDetailView(generic.DetailView):
     template_name = 'product_detail.html'
